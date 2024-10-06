@@ -2,7 +2,7 @@
     "name": "geforcenow",
     "appId": "com.electron.${name}",
     "productName": "GeForce Now",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A minimal Electron application",
     "main": "scripts/main.js",
     "scripts": {
