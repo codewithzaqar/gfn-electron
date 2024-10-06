@@ -1,5 +1,7 @@
 {
-    "name": "electron-quick-start",
+    "name": "geforcenow",
+    "appId": "com.electron.${name}",
+    "productName": "GeForce Now",
     "version": "1.0.0",
     "description": "A minimal Electron application",
     "main": "scripts/main.js",
